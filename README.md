@@ -1,26 +1,35 @@
-Hospital Management System 🏥
 
-A Java + SQL based desktop application for managing hospital operations, including patients, doctors, appointments, and billing. This project helps replace manual record-keeping with a digital, centralized system.
+# 🏥 Hospital Management System
 
-🚀 Features
+The Hospital Management System is a **Java + SQL based desktop application** designed to simplify hospital operations. It replaces manual record-keeping with a digital, centralized solution for managing patients, doctors, appointments, and billing.
 
-Patient registration and management
+---
 
-Doctor management (profiles & specializations)
-Appointment scheduling between doctors & patients
-Billing and invoice generation
-SQL database integration for secure storage
+## ✨ Key Features
 
-🛠️ Tech Stack
+* 👨‍⚕️ **Doctor Management** → Maintain doctor profiles, specializations, and availability.
+* 🧑‍🤝‍🧑 **Patient Management** → Register new patients and manage their medical details.
+* 📅 **Appointment Scheduling** → Schedule and track doctor–patient appointments.
+* 💳 **Billing System** → Generate invoices and maintain payment records.
+* 💾 **Database Integration** → Uses MySQL with JDBC for secure and reliable storage.
 
-Java (Swing/JavaFX, JDBC)
-MySQL Database
-JDBC for database connectivity
+---
 
-📊 Database Schema
+## 🎯 Learning Goals
 
-Patient → patient details
-Doctor → doctor details
-Appointment → doctor-patient schedule
-Billing → payment details
+This project demonstrates:
+
+* Core **Java programming skills** (classes, objects, methods).
+* **OOP principles** → Encapsulation, Inheritance, Polymorphism, Abstraction.
+* **Database Connectivity** using JDBC.
+* **Practical implementation** of CRUD operations with MySQL.
+
+---
+
+## 🔧 Tech Stack
+
+* **Java** 
+* **MySQL Database**
+* **JDBC** (Java Database Connectivity)
+
 

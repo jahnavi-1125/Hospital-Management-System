@@ -1,15 +1,14 @@
-# Java class files
-*.class
-
-# IDE/editor files
+# VS Code
 .vscode/
+
+# Java
+*.class
+*.log
+
+# IntelliJ IDEA
 .idea/
 *.iml
 out/
 
-# Logs
-*.log
-
-# OS-specific files
+# Mac
 .DS_Store
-Thumbs.db
